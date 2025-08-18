@@ -1,0 +1,167 @@
+{
+  "search_history": [
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-29T23:37:03.927198"
+    },
+    {
+      "term": "r",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T00:21:03.343413"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T00:30:21.230594"
+    },
+    {
+      "term": "he",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T00:30:40.677577"
+    },
+    {
+      "term": "he",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T08:29:17.260606"
+    },
+    {
+      "term": "hell",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T08:40:05.933151"
+    },
+    {
+      "term": "l",
+      "type": "smart",
+      "found": true,
+      "timestamp": "2025-07-30T16:24:51.593216"
+    },
+    {
+      "term": "io",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-07-30T16:24:56.996050"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T16:32:58.509601"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T16:38:48.984464"
+    },
+    {
+      "term": "play",
+      "type": "smart",
+      "found": true,
+      "timestamp": "2025-07-30T16:40:31.127784"
+    },
+    {
+      "term": "spe",
+      "type": "smart",
+      "found": true,
+      "timestamp": "2025-07-30T16:41:57.363906"
+    },
+    {
+      "term": "hello",
+      "type": "smart",
+      "found": true,
+      "timestamp": "2025-07-30T16:51:44.067006"
+    },
+    {
+      "term": "សួ",
+      "type": "khmer",
+      "found": false,
+      "timestamp": "2025-07-30T16:56:36.687302"
+    },
+    {
+      "term": "សួ",
+      "type": "smart",
+      "found": false,
+      "timestamp": "2025-07-30T16:56:43.966217"
+    },
+    {
+      "term": "សួ",
+      "type": "smart",
+      "found": false,
+      "timestamp": "2025-07-30T16:56:46.096698"
+    },
+    {
+      "term": "សួស្ដី",
+      "type": "smart",
+      "found": false,
+      "timestamp": "2025-07-30T16:56:49.224349"
+    },
+    {
+      "term": "រត់",
+      "type": "khmer",
+      "found": false,
+      "timestamp": "2025-07-30T16:57:02.254435"
+    },
+    {
+      "term": "រត់",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-07-30T16:57:15.898086"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-07-30T16:57:19.097329"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-08-18T22:46:51.418200"
+    },
+    {
+      "term": "df",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-08-18T22:47:00.826668"
+    },
+    {
+      "term": "f",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-08-18T22:49:27.567178"
+    }
+  ],
+  "word_preferences": {
+    "hello": 5,
+    "r": 1,
+    "he": 2,
+    "hell": 1,
+    "l": 1,
+    "run": 2,
+    "play": 1,
+    "spe": 1
+  },
+  "language_preference": "english",
+  "difficulty_level": "beginner",
+  "search_count": 23,
+  "session_time": 15,
+  "favorite_word_types": {
+    "greeting": 9,
+    "verb": 5
+  },
+  "error_patterns": [],
+  "learning_progress": {
+    "beginner": 0,
+    "intermediate": 0,
+    "advanced": 0
+  },
+  "last_active": "2025-08-18T22:49:34.478732"
+}
