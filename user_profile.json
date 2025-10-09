@@ -137,25 +137,98 @@
       "type": "english",
       "found": false,
       "timestamp": "2025-08-18T22:49:27.567178"
+    },
+    {
+      "term": "sdf",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-08-26T23:52:59.572875"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-08-26T23:53:32.177853"
+    },
+    {
+      "term": "speak",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-08-26T23:54:19.331452"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-08-26T23:57:37.748461"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-09T19:21:38.026442"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-09T19:23:23.209346"
+    },
+    {
+      "term": "speak",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-09T19:23:39.561339"
+    },
+    {
+      "term": "និយាយ",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-09T19:24:50.150961"
+    },
+    {
+      "term": "រ",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-09T19:28:29.462907"
+    },
+    {
+      "term": "rr",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-09T19:28:32.716790"
+    },
+    {
+      "term": "r",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-09T19:28:33.802673"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-09T19:30:22.614005"
     }
   ],
   "word_preferences": {
-    "hello": 5,
-    "r": 1,
+    "hello": 8,
+    "r": 2,
     "he": 2,
     "hell": 1,
     "l": 1,
-    "run": 2,
+    "run": 4,
     "play": 1,
-    "spe": 1
+    "spe": 1,
+    "speak": 2
   },
   "language_preference": "english",
   "difficulty_level": "beginner",
-  "search_count": 23,
-  "session_time": 15,
+  "search_count": 35,
+  "session_time": 762,
   "favorite_word_types": {
-    "greeting": 9,
-    "verb": 5
+    "greeting": 12,
+    "verb": 10
   },
   "error_patterns": [],
   "learning_progress": {
@@ -163,5 +236,5 @@
     "intermediate": 0,
     "advanced": 0
   },
-  "last_active": "2025-08-18T22:49:34.478732"
+  "last_active": "2025-10-09T19:33:42.110403"
 }
