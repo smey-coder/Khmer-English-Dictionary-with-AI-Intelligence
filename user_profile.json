@@ -231,7 +231,7 @@
   "language_preference": "english",
   "difficulty_level": "beginner",
   "search_count": 36,
-  "session_time": 23,
+  "session_time": 19,
   "favorite_word_types": {
     "greeting": 12,
     "verb": 10
@@ -242,5 +242,5 @@
     "intermediate": 0,
     "advanced": 0
   },
-  "last_active": "2025-10-18T14:28:55.515158"
+  "last_active": "2025-10-18T14:38:14.678539"
 }
