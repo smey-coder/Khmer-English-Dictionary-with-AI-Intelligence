@@ -209,6 +209,12 @@
       "type": "english",
       "found": true,
       "timestamp": "2025-10-09T19:30:22.614005"
+    },
+    {
+      "term": "df",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-18T14:16:19.076672"
     }
   ],
   "word_preferences": {
@@ -224,8 +230,8 @@
   },
   "language_preference": "english",
   "difficulty_level": "beginner",
-  "search_count": 35,
-  "session_time": 762,
+  "search_count": 36,
+  "session_time": 23,
   "favorite_word_types": {
     "greeting": 12,
     "verb": 10
@@ -236,5 +242,5 @@
     "intermediate": 0,
     "advanced": 0
   },
-  "last_active": "2025-10-09T19:33:42.110403"
+  "last_active": "2025-10-18T14:28:55.515158"
 }
