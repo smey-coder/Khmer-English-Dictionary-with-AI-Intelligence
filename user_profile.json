@@ -161,25 +161,130 @@
       "type": "english",
       "found": true,
       "timestamp": "2025-10-24T09:20:22.551369"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:27:49.383831"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:28:00.601679"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:29:14.758783"
+    },
+    {
+      "term": "cat",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:29:27.409559"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:29:53.923614"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:46:46.358246"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:47:12.710113"
+    },
+    {
+      "term": "ឆ្កែ",
+      "type": "khmer",
+      "found": true,
+      "timestamp": "2025-10-24T09:48:57.179315"
+    },
+    {
+      "term": "goodby",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:49:58.345356"
+    },
+    {
+      "term": "school",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:50:40.758882"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:52:24.253347"
+    },
+    {
+      "term": "My Name Is Reaksmey. Am Currenctly A Student At University At Norton University.",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:56:13.020926"
+    },
+    {
+      "term": "My Name Is Reaksmey. Am Currenctly A Student At University At Norton University.",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:58:19.841633"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:58:57.719285"
+    },
+    {
+      "term": "happy",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T09:59:13.370587"
+    },
+    {
+      "term": "h",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T10:15:03.924629"
     }
   ],
   "word_preferences": {
-    "ឆ្កែ": 1,
+    "ឆ្កែ": 2,
     "ឆ": 1,
-    "hello": 3,
-    "cat": 1,
-    "dog": 8,
+    "hello": 7,
+    "cat": 2,
+    "dog": 11,
     "love": 2,
-    "friend": 1
+    "friend": 1,
+    "goodby": 1,
+    "school": 1,
+    "run": 1,
+    "My Name Is Reaksmey. Am Currenctly A Student At University At Norton University.": 2,
+    "happy": 1,
+    "h": 1
   },
   "language_preference": "english",
   "difficulty_level": "beginner",
-  "search_count": 27,
-  "session_time": 300,
+  "search_count": 43,
+  "session_time": 48,
   "favorite_word_types": {
-    "noun": 12,
-    "greeting": 3,
-    "noun/verb": 2
+    "noun": 18,
+    "greeting": 10,
+    "noun/verb": 2,
+    "farewell": 1,
+    "verb": 1,
+    "adjective": 1
   },
   "error_patterns": [],
   "learning_progress": {
@@ -187,5 +292,5 @@
     "intermediate": 0,
     "advanced": 0
   },
-  "last_active": "2025-10-24T09:21:19.855639"
+  "last_active": "2025-10-24T10:15:36.634514"
 }
