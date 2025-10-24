@@ -1,240 +1,185 @@
 {
   "search_history": [
     {
-      "term": "hello",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-29T23:37:03.927198"
-    },
-    {
-      "term": "r",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-30T00:21:03.343413"
-    },
-    {
-      "term": "hello",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-30T00:30:21.230594"
-    },
-    {
-      "term": "he",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-30T00:30:40.677577"
-    },
-    {
-      "term": "he",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-30T08:29:17.260606"
-    },
-    {
-      "term": "hell",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-30T08:40:05.933151"
-    },
-    {
-      "term": "l",
-      "type": "smart",
-      "found": true,
-      "timestamp": "2025-07-30T16:24:51.593216"
-    },
-    {
-      "term": "io",
-      "type": "english",
-      "found": false,
-      "timestamp": "2025-07-30T16:24:56.996050"
-    },
-    {
-      "term": "hello",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-30T16:32:58.509601"
-    },
-    {
-      "term": "run",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-07-30T16:38:48.984464"
-    },
-    {
-      "term": "play",
-      "type": "smart",
-      "found": true,
-      "timestamp": "2025-07-30T16:40:31.127784"
-    },
-    {
-      "term": "spe",
-      "type": "smart",
-      "found": true,
-      "timestamp": "2025-07-30T16:41:57.363906"
-    },
-    {
-      "term": "hello",
-      "type": "smart",
-      "found": true,
-      "timestamp": "2025-07-30T16:51:44.067006"
-    },
-    {
-      "term": "សួ",
+      "term": "ដថ",
       "type": "khmer",
       "found": false,
-      "timestamp": "2025-07-30T16:56:36.687302"
+      "timestamp": "2025-10-23T22:33:16.963903"
     },
     {
-      "term": "សួ",
-      "type": "smart",
-      "found": false,
-      "timestamp": "2025-07-30T16:56:43.966217"
-    },
-    {
-      "term": "សួ",
-      "type": "smart",
-      "found": false,
-      "timestamp": "2025-07-30T16:56:46.096698"
-    },
-    {
-      "term": "សួស្ដី",
-      "type": "smart",
-      "found": false,
-      "timestamp": "2025-07-30T16:56:49.224349"
-    },
-    {
-      "term": "រត់",
+      "term": "ឆ្កេ",
       "type": "khmer",
       "found": false,
-      "timestamp": "2025-07-30T16:57:02.254435"
+      "timestamp": "2025-10-23T22:33:21.785509"
     },
     {
-      "term": "រត់",
-      "type": "english",
-      "found": false,
-      "timestamp": "2025-07-30T16:57:15.898086"
-    },
-    {
-      "term": "run",
-      "type": "english",
+      "term": "ឆ្កែ",
+      "type": "khmer",
       "found": true,
-      "timestamp": "2025-07-30T16:57:19.097329"
+      "timestamp": "2025-10-23T22:33:23.830565"
+    },
+    {
+      "term": "ឆ",
+      "type": "khmer",
+      "found": true,
+      "timestamp": "2025-10-23T22:33:34.413829"
     },
     {
       "term": "hello",
       "type": "english",
       "found": true,
-      "timestamp": "2025-08-18T22:46:51.418200"
+      "timestamp": "2025-10-23T22:34:15.227586"
     },
     {
-      "term": "df",
+      "term": "cat",
       "type": "english",
-      "found": false,
-      "timestamp": "2025-08-18T22:47:00.826668"
+      "found": true,
+      "timestamp": "2025-10-23T22:44:41.447503"
     },
     {
-      "term": "f",
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-23T23:00:26.083928"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-23T23:02:32.090006"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-23T23:08:49.119209"
+    },
+    {
+      "term": "ដោង",
+      "type": "khmer",
+      "found": false,
+      "timestamp": "2025-10-23T23:28:01.317989"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-23T23:28:03.460587"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-23T23:32:58.630619"
+    },
+    {
+      "term": "love",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-23T23:34:47.883628"
+    },
+    {
+      "term": "dol",
       "type": "english",
       "found": false,
-      "timestamp": "2025-08-18T22:49:27.567178"
+      "timestamp": "2025-10-23T23:46:21.556225"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-23T23:46:22.717762"
+    },
+    {
+      "term": "ដោង",
+      "type": "khmer",
+      "found": false,
+      "timestamp": "2025-10-24T00:24:58.339928"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T00:25:00.724232"
+    },
+    {
+      "term": "hello",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T00:25:33.177860"
+    },
+    {
+      "term": "friend",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T00:28:25.806185"
     },
     {
       "term": "sdf",
       "type": "english",
       "found": false,
-      "timestamp": "2025-08-26T23:52:59.572875"
+      "timestamp": "2025-10-24T00:31:30.327849"
+    },
+    {
+      "term": "dog",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T00:31:36.963074"
+    },
+    {
+      "term": "tyler",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-24T09:17:33.652177"
+    },
+    {
+      "term": "fg",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-24T09:18:00.331159"
     },
     {
       "term": "hello",
       "type": "english",
       "found": true,
-      "timestamp": "2025-08-26T23:53:32.177853"
+      "timestamp": "2025-10-24T09:18:36.582722"
     },
     {
-      "term": "speak",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-08-26T23:54:19.331452"
-    },
-    {
-      "term": "hello",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-08-26T23:57:37.748461"
-    },
-    {
-      "term": "hello",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-10-09T19:21:38.026442"
-    },
-    {
-      "term": "run",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-10-09T19:23:23.209346"
-    },
-    {
-      "term": "speak",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-10-09T19:23:39.561339"
-    },
-    {
-      "term": "និយាយ",
+      "term": "knox",
       "type": "english",
       "found": false,
-      "timestamp": "2025-10-09T19:24:50.150961"
+      "timestamp": "2025-10-24T09:19:45.353893"
     },
     {
-      "term": "រ",
+      "term": "blue blue",
       "type": "english",
       "found": false,
-      "timestamp": "2025-10-09T19:28:29.462907"
+      "timestamp": "2025-10-24T09:20:15.909586"
     },
     {
-      "term": "rr",
-      "type": "english",
-      "found": false,
-      "timestamp": "2025-10-09T19:28:32.716790"
-    },
-    {
-      "term": "r",
+      "term": "love",
       "type": "english",
       "found": true,
-      "timestamp": "2025-10-09T19:28:33.802673"
-    },
-    {
-      "term": "run",
-      "type": "english",
-      "found": true,
-      "timestamp": "2025-10-09T19:30:22.614005"
-    },
-    {
-      "term": "df",
-      "type": "english",
-      "found": false,
-      "timestamp": "2025-10-18T14:16:19.076672"
+      "timestamp": "2025-10-24T09:20:22.551369"
     }
   ],
   "word_preferences": {
-    "hello": 8,
-    "r": 2,
-    "he": 2,
-    "hell": 1,
-    "l": 1,
-    "run": 4,
-    "play": 1,
-    "spe": 1,
-    "speak": 2
+    "ឆ្កែ": 1,
+    "ឆ": 1,
+    "hello": 3,
+    "cat": 1,
+    "dog": 8,
+    "love": 2,
+    "friend": 1
   },
   "language_preference": "english",
   "difficulty_level": "beginner",
-  "search_count": 36,
-  "session_time": 19,
+  "search_count": 27,
+  "session_time": 300,
   "favorite_word_types": {
-    "greeting": 12,
-    "verb": 10
+    "noun": 12,
+    "greeting": 3,
+    "noun/verb": 2
   },
   "error_patterns": [],
   "learning_progress": {
@@ -242,5 +187,5 @@
     "intermediate": 0,
     "advanced": 0
   },
-  "last_active": "2025-10-18T14:38:14.678539"
+  "last_active": "2025-10-24T09:21:19.855639"
 }
