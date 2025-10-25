@@ -257,6 +257,138 @@
       "type": "english",
       "found": true,
       "timestamp": "2025-10-24T10:15:03.924629"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T12:49:52.977877"
+    },
+    {
+      "term": "My Name Is Reaksmey. Am Currenctly A Student At University At Norton University",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T12:52:39.360709"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T14:28:20.516786"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T14:29:17.074921"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T14:52:05.122788"
+    },
+    {
+      "term": "រត់",
+      "type": "khmer",
+      "found": true,
+      "timestamp": "2025-10-24T14:52:55.189499"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T18:19:50.037014"
+    },
+    {
+      "term": "djsk",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-24T18:29:16.449252"
+    },
+    {
+      "term": "hell",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T18:47:00.069587"
+    },
+    {
+      "term": "f",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T18:58:43.064563"
+    },
+    {
+      "term": "sfs",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-24T19:02:05.350338"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T19:02:59.087898"
+    },
+    {
+      "term": "water",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T19:17:40.858745"
+    },
+    {
+      "term": "family",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T19:20:11.967690"
+    },
+    {
+      "term": "yes",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T19:21:30.294845"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T19:21:41.720150"
+    },
+    {
+      "term": "I wan",
+      "type": "english",
+      "found": false,
+      "timestamp": "2025-10-24T19:22:45.472926"
+    },
+    {
+      "term": "My name",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T19:23:02.904089"
+    },
+    {
+      "term": "run",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T19:23:40.198854"
+    },
+    {
+      "term": "my",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T22:25:33.497923"
+    },
+    {
+      "term": "m",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T22:51:30.550390"
+    },
+    {
+      "term": "my name",
+      "type": "english",
+      "found": true,
+      "timestamp": "2025-10-24T22:51:34.109270"
     }
   ],
   "word_preferences": {
@@ -269,22 +401,34 @@
     "friend": 1,
     "goodby": 1,
     "school": 1,
-    "run": 1,
+    "run": 9,
     "My Name Is Reaksmey. Am Currenctly A Student At University At Norton University.": 2,
     "happy": 1,
-    "h": 1
+    "h": 1,
+    "My Name Is Reaksmey. Am Currenctly A Student At University At Norton University": 1,
+    "រត់": 1,
+    "hell": 1,
+    "f": 1,
+    "water": 1,
+    "family": 1,
+    "yes": 1,
+    "My name": 1,
+    "my": 1,
+    "m": 1,
+    "my name": 1
   },
   "language_preference": "english",
   "difficulty_level": "beginner",
-  "search_count": 43,
-  "session_time": 48,
+  "search_count": 65,
+  "session_time": 191,
   "favorite_word_types": {
-    "noun": 18,
-    "greeting": 10,
+    "noun": 21,
+    "greeting": 15,
     "noun/verb": 2,
     "farewell": 1,
-    "verb": 1,
-    "adjective": 1
+    "verb": 10,
+    "adjective": 2,
+    "response": 1
   },
   "error_patterns": [],
   "learning_progress": {
@@ -292,5 +436,5 @@
     "intermediate": 0,
     "advanced": 0
   },
-  "last_active": "2025-10-24T10:15:36.634514"
+  "last_active": "2025-10-24T22:54:08.060521"
 }
